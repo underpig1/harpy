@@ -1,0 +1,25 @@
+{
+  "name": "harpy",
+  "version": "0.0.1",
+  "bin": "./js/server.js",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "html": "^1.0.0",
+    "socket.io": "^4.5.4"
+  },
+  "scripts": {
+    "start": "node ./js/server.js",
+    "build": "pkg ."
+  },
+  "pkg": {
+    "assets": [
+      "./assets/**",
+      "./views/**",
+      "./js/**"
+    ],
+    "scripts": "./js/**",
+    "targets": ["node14-win"],
+    "outputPath": "dist"
+  }
+}
