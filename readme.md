@@ -1,4 +1,6 @@
-# Harpy - 3D Multiplayer Flight Simulator
+# Harpy
+> 3D Web-based Multiplayer Flight Simulator
+
 ![Home](img/home.png)
 
 ## Features
@@ -17,3 +19,7 @@
 ![Caldera](img/caldera.jpg)
 ![Volcano intro](img/map2.jpg)
 ![Island](img/island.jpg)
+
+## Download
+
+Download `dist/harpy.exe`
