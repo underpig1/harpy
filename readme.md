@@ -1,5 +1,5 @@
 # Harpy
-> 3D Web-based Multiplayer Flight Simulator
+> 3D web-based multiplayer flight sim
 
 ![Home](img/home.png)
 
